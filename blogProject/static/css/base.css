@@ -1,0 +1,43 @@
+body{
+    background-image: url('image.png');
+    color:white;
+}
+
+.content{
+    width: 70%;
+    height: 100%vh;
+    float: left;
+    padding: 0 0 0 50px;
+    /* background: red; */
+}
+.sidebar{
+    width: 25%;
+    height: 100%vh;
+    float: right;
+    padding:20px;
+    /* background: green; */
+    border:1px solid grey;
+    font-size: 15px;
+    margin-right: 40px;
+    margin-top: 40px;
+    
+}
+
+h2{
+    text-align: center;
+    border-bottom: 1px solid gold;
+    padding: 10px;
+}
+
+.author{
+    color:rgb(116, 197, 122);
+}
+.cbody{
+    font-size: 25px;
+    color:rgb(32, 8, 24);
+    border-bottom: 1px solid rgb(34, 15, 13);
+}
+
+a{
+    text-decoration: none;
+}
